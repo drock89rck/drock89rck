@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @drock89rck
-- 👀 I’m interested in learning software development 
-- 🌱 I’m currently learning front end dev
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... dylanarock@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hey, I’m Dylan Rock!
 
-<!---
-drock89rck/drock89rck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Building something new in social and fintech. Previously at AWS, working with ISVs and enterprise customers. Passionate about turning ideas into products and driving impact with technology.
+
+Let’s connect! 🚀
